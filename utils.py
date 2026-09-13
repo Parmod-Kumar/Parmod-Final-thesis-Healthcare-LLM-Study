@@ -1,7 +1,7 @@
 """
 utils.py - Utility functions for the study
-Author: [Your Name]
-Date: [Current Date]
+Author: Parmod Kumar
+Date: 13/Sept/2026
 """
 
 import os
