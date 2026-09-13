@@ -1,7 +1,7 @@
 """
 config.py - Configuration settings for the study
-Author: [Your Name]
-Date: [Current Date]
+Author: Parmod Kumar
+Date: 13/Sept/2026
 """
 
 from dataclasses import dataclass
