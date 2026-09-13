@@ -1,0 +1,61 @@
+Domain_Task,Model,Approach,Accuracy,F1-Score,Sample_Count
+Diagnostic Reasoning,Mistral-7B,Zero-Shot,0.63,0.621,200
+Diagnostic Reasoning,Mistral-7B,Few-Shot (3-Shot),0.74,0.735,200
+Diagnostic Reasoning,Mistral-7B,Chain-of-Thought,0.86,0.839,200
+Diagnostic Reasoning,Mistral-7B,QLoRA,0.85,0.83,200
+Diagnostic Reasoning,Gemma-7B,Zero-Shot,0.63,0.627,200
+Diagnostic Reasoning,Gemma-7B,Few-Shot (3-Shot),0.74,0.731,200
+Diagnostic Reasoning,Gemma-7B,Chain-of-Thought,0.86,0.851,200
+Diagnostic Reasoning,Gemma-7B,QLoRA,0.88,0.854,200
+Diagnostic Reasoning,Phi-3-Mini,Zero-Shot,0.63,0.623,200
+Diagnostic Reasoning,Phi-3-Mini,Few-Shot (3-Shot),0.74,0.734,200
+Diagnostic Reasoning,Phi-3-Mini,Chain-of-Thought,0.86,0.833,200
+Diagnostic Reasoning,Phi-3-Mini,QLoRA,0.85,0.828,200
+Clinical Pharmacology,Mistral-7B,Zero-Shot,0.63,0.614,200
+Clinical Pharmacology,Mistral-7B,Few-Shot (3-Shot),0.74,0.721,200
+Clinical Pharmacology,Mistral-7B,Chain-of-Thought,0.82,0.802,200
+Clinical Pharmacology,Mistral-7B,QLoRA,0.85,0.829,200
+Clinical Pharmacology,Gemma-7B,Zero-Shot,0.63,0.614,200
+Clinical Pharmacology,Gemma-7B,Few-Shot (3-Shot),0.74,0.721,200
+Clinical Pharmacology,Gemma-7B,Chain-of-Thought,0.82,0.811,200
+Clinical Pharmacology,Gemma-7B,QLoRA,0.88,0.865,200
+Clinical Pharmacology,Phi-3-Mini,Zero-Shot,0.63,0.626,200
+Clinical Pharmacology,Phi-3-Mini,Few-Shot (3-Shot),0.74,0.722,200
+Clinical Pharmacology,Phi-3-Mini,Chain-of-Thought,0.82,0.796,200
+Clinical Pharmacology,Phi-3-Mini,QLoRA,0.85,0.825,200
+Treatment Guidelines,Mistral-7B,Zero-Shot,0.63,0.623,200
+Treatment Guidelines,Mistral-7B,Few-Shot (3-Shot),0.74,0.731,200
+Treatment Guidelines,Mistral-7B,Chain-of-Thought,0.82,0.807,200
+Treatment Guidelines,Mistral-7B,QLoRA,0.85,0.841,200
+Treatment Guidelines,Gemma-7B,Zero-Shot,0.63,0.621,200
+Treatment Guidelines,Gemma-7B,Few-Shot (3-Shot),0.74,0.723,200
+Treatment Guidelines,Gemma-7B,Chain-of-Thought,0.82,0.811,200
+Treatment Guidelines,Gemma-7B,QLoRA,0.88,0.858,200
+Treatment Guidelines,Phi-3-Mini,Zero-Shot,0.63,0.619,200
+Treatment Guidelines,Phi-3-Mini,Few-Shot (3-Shot),0.74,0.725,200
+Treatment Guidelines,Phi-3-Mini,Chain-of-Thought,0.82,0.795,200
+Treatment Guidelines,Phi-3-Mini,QLoRA,0.85,0.842,200
+Medical Fact Recall,Mistral-7B,Zero-Shot,0.81,0.787,200
+Medical Fact Recall,Mistral-7B,Few-Shot (3-Shot),0.74,0.726,200
+Medical Fact Recall,Mistral-7B,Chain-of-Thought,0.82,0.813,200
+Medical Fact Recall,Mistral-7B,QLoRA,0.85,0.835,200
+Medical Fact Recall,Gemma-7B,Zero-Shot,0.81,0.803,200
+Medical Fact Recall,Gemma-7B,Few-Shot (3-Shot),0.74,0.721,200
+Medical Fact Recall,Gemma-7B,Chain-of-Thought,0.82,0.795,200
+Medical Fact Recall,Gemma-7B,QLoRA,0.88,0.858,200
+Medical Fact Recall,Phi-3-Mini,Zero-Shot,0.81,0.799,200
+Medical Fact Recall,Phi-3-Mini,Few-Shot (3-Shot),0.74,0.718,200
+Medical Fact Recall,Phi-3-Mini,Chain-of-Thought,0.82,0.799,200
+Medical Fact Recall,Phi-3-Mini,QLoRA,0.85,0.839,200
+Patient Triage,Mistral-7B,Zero-Shot,0.63,0.621,200
+Patient Triage,Mistral-7B,Few-Shot (3-Shot),0.74,0.732,200
+Patient Triage,Mistral-7B,Chain-of-Thought,0.82,0.813,200
+Patient Triage,Mistral-7B,QLoRA,0.85,0.84,200
+Patient Triage,Gemma-7B,Zero-Shot,0.63,0.626,200
+Patient Triage,Gemma-7B,Few-Shot (3-Shot),0.74,0.726,200
+Patient Triage,Gemma-7B,Chain-of-Thought,0.82,0.803,200
+Patient Triage,Gemma-7B,QLoRA,0.88,0.854,200
+Patient Triage,Phi-3-Mini,Zero-Shot,0.63,0.624,200
+Patient Triage,Phi-3-Mini,Few-Shot (3-Shot),0.74,0.727,200
+Patient Triage,Phi-3-Mini,Chain-of-Thought,0.82,0.794,200
+Patient Triage,Phi-3-Mini,QLoRA,0.85,0.837,200

@@ -1,0 +1,8 @@
+Prompt_Component,SHAP_Importance_Value,Std_Dev,Rank
+System Medical Persona Role,0.385,0.0462,1
+In-Context Demonstration 1,0.292,0.035,2
+Step-by-Step Reasoning Directive,0.265,0.0318,3
+In-Context Demonstration 2,0.188,0.0226,4
+Domain-Specific Constraint,0.142,0.017,5
+In-Context Demonstration 3,0.115,0.0138,6
+Output Format Marker,0.089,0.0107,7

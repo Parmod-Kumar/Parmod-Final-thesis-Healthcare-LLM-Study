@@ -1,0 +1,6 @@
+Approach,Factual_Hallucination_%,Reasoning_Logic_Error_%,Format_Disregard_%,Premature_Conclusion_%
+Zero-Shot,48.0,32.0,12.0,8.0
+Few-Shot (3-Shot),38.0,34.0,14.0,14.0
+Few-Shot (5-Shot),35.0,33.0,15.0,17.0
+Chain-of-Thought,20.0,25.0,10.0,45.0
+QLoRA Fine-Tuned,15.0,18.0,4.0,63.0

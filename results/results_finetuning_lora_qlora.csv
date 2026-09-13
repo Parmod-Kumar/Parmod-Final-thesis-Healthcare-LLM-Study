@@ -1,0 +1,9 @@
+Exp,Model,Method,Train_Loss,Val_Loss,ROUGE-1,ROUGE-L,BERTScore,EM,F1-Score,GPU_Memory_GB,Train_Time_Mins
+FT-01,Mistral-7B,Baseline (Zero-Shot),,,0.218,0.16,0.666,0.12,0.621,14.2,0
+FT-02,Gemma-7B,Baseline (Zero-Shot),,,0.255,0.193,0.664,0.14,0.645,14.8,0
+FT-03,Mistral-7B,"LoRA (r=8, alpha=16)",0.412,0.448,0.385,0.332,0.762,0.38,0.792,16.4,45
+FT-04,Gemma-7B,"LoRA (r=8, alpha=16)",0.388,0.415,0.412,0.358,0.778,0.41,0.814,16.9,52
+FT-05,Mistral-7B,QLoRA (4-bit NF4),0.425,0.455,0.392,0.341,0.768,0.39,0.801,7.8,38
+FT-06,Gemma-7B,QLoRA (4-bit NF4),0.395,0.421,0.425,0.369,0.785,0.43,0.826,8.2,42
+FT-07,Phi-3-Mini,"LoRA (r=8, alpha=16)",0.482,0.512,0.348,0.295,0.725,0.31,0.735,8.5,25
+FT-08,Phi-3-Mini,QLoRA (4-bit NF4),0.495,0.528,0.355,0.302,0.732,0.33,0.748,4.6,20

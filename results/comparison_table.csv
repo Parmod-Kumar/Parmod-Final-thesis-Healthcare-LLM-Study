@@ -1,0 +1,3 @@
+model,avg_inference_time_lora,avg_inference_time_qlora,exact_match_lora,exact_match_qlora,f1_lora,f1_qlora
+combined,1.6145988404750824,1.649737983942032,0.0,0.0,0.0,0.0
+distilgpt2,1.6145988404750824,1.649737983942032,0.0,0.0,0.0,0.0

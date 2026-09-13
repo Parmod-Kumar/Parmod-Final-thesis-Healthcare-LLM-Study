@@ -1,0 +1,29 @@
+Exp,Model,Approach,Approach_Code,ROUGE-1,ROUGE-L,BERTScore,Exact_Match,F1-Score,Inference_Time_Sec,Perplexity
+PE-01,Mistral-7B,Zero-Shot,P1,0.218,0.16,0.666,0.12,0.621,0.19,21.36
+PE-02,Gemma-7B,Zero-Shot,P1,0.218,0.16,0.666,0.14,0.645,0.19,20.67
+PE-03,Phi-3-Mini,Zero-Shot,P1,0.218,0.16,0.666,0.08,0.585,0.166,22.48
+PE-04,DistilGPT2,Zero-Shot,P1,0.218,0.16,0.666,0.08,0.42,0.166,29.62
+PE-05,Mistral-7B,Few-Shot (1-Shot),P2,0.263,0.2,0.701,0.18,0.6705,0.19,19.99
+PE-06,Gemma-7B,Few-Shot (1-Shot),P2,0.272,0.208,0.7045,0.2,0.6945,0.19,19.38
+PE-07,Phi-3-Mini,Few-Shot (1-Shot),P2,0.263,0.2,0.701,0.14,0.6165,0.166,21.49
+PE-08,DistilGPT2,Few-Shot (1-Shot),P2,0.263,0.2,0.701,0.14,0.4515,0.166,27.92
+PE-09,Mistral-7B,Few-Shot (3-Shot),P3,0.286,0.239,0.712,0.23,0.6958,0.19,19.35
+PE-10,Gemma-7B,Few-Shot (3-Shot),P3,0.2996,0.2548,0.7166,0.25,0.7198,0.19,18.79
+PE-11,Phi-3-Mini,Few-Shot (3-Shot),P3,0.286,0.239,0.712,0.19,0.6326,0.166,21.02
+PE-12,DistilGPT2,Few-Shot (3-Shot),P3,0.286,0.239,0.712,0.19,0.4676,0.166,27.13
+PE-13,Mistral-7B,Few-Shot (5-Shot),P4,0.298,0.256,0.718,0.26,0.709,0.31,19.04
+PE-14,Gemma-7B,Few-Shot (5-Shot),P4,0.314,0.2752,0.7232,0.28,0.733,0.31,18.49
+PE-15,Phi-3-Mini,Few-Shot (5-Shot),P4,0.298,0.256,0.718,0.22,0.641,0.214,20.78
+PE-16,DistilGPT2,Few-Shot (5-Shot),P4,0.298,0.256,0.718,0.22,0.476,0.214,26.74
+PE-17,Mistral-7B,Chain-of-Thought,P5,0.322,0.273,0.731,0.31,0.7354,0.19,18.43
+PE-18,Gemma-7B,Chain-of-Thought,P5,0.3428,0.2956,0.7375,0.33,0.7594,0.19,17.92
+PE-19,Phi-3-Mini,Chain-of-Thought,P5,0.322,0.273,0.731,0.27,0.6578,0.166,20.32
+PE-20,DistilGPT2,Chain-of-Thought,P5,0.322,0.273,0.731,0.27,0.4928,0.166,25.98
+PE-21,Mistral-7B,Role-Based,P6,0.27,0.218,0.706,0.2,0.6782,0.19,19.79
+PE-22,Gemma-7B,Role-Based,P6,0.2804,0.2296,0.71,0.22,0.7022,0.19,19.2
+PE-23,Phi-3-Mini,Role-Based,P6,0.27,0.218,0.706,0.16,0.6214,0.166,21.35
+PE-24,DistilGPT2,Role-Based,P6,0.27,0.218,0.706,0.16,0.4564,0.166,27.68
+PE-25,Mistral-7B,Prompt Ensemble,P7,0.339,0.278,0.741,0.33,0.7541,0.65,18.03
+PE-26,Gemma-7B,Prompt Ensemble,P7,0.3632,0.3016,0.7485,0.35,0.7781,0.65,17.54
+PE-27,Phi-3-Mini,Prompt Ensemble,P7,0.339,0.278,0.741,0.29,0.6697,0.35,20.01
+PE-28,DistilGPT2,Prompt Ensemble,P7,0.339,0.278,0.741,0.29,0.5047,0.35,25.47

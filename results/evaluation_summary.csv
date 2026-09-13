@@ -1,0 +1,5 @@
+exact_match,precision,recall,f1,avg_inference_time,num_samples,method,model,file
+0.0,0.0,0.0,0.0,1.6145988404750824,8,lora,combined,lora_results_combined.csv
+0.0,0.0,0.0,0.0,1.6145988404750824,8,lora,distilgpt2,lora_results_distilgpt2.csv
+0.0,0.0,0.0,0.0,1.6497379839420319,8,qlora,combined,qlora_results_combined.csv
+0.0,0.0,0.0,0.0,1.6497379839420319,8,qlora,distilgpt2,qlora_results_distilgpt2.csv

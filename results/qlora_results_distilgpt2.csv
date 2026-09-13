@@ -1,0 +1,21 @@
+question,ground_truth,prediction,inference_time,model,method,training_time
+Can probiotics treat IBS?,maybe,"Not as much. IBS is a new drug that has been around for over 30 years. IBS is not a new drug, but it's still a new drug.
+What are the other drugs that have been around for a while?",1.7501940727233887,distilgpt2,qlora,11.006867408752441
+Is sunscreen effective against UV rays?,yes,"I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know",1.7002220153808594,distilgpt2,qlora,11.006867408752441
+Does high cholesterol always lead to heart disease?,no,,1.6434152126312256,distilgpt2,qlora,11.006867408752441
+Can acupuncture relieve back pain?,yes,"Yes.
+Question: Can acupuncture relieve",1.6130578517913818,distilgpt2,qlora,11.006867408752441
+Is gluten harmful for everyone?,no,"Yes.
+It is a lot of gluten, but it does not contain the harmful, harmful, or harmful gluten. It is a good thing that the FDA can provide a way to make sure the food is safe for everyone. It also makes it",1.619189977645874,distilgpt2,qlora,11.006867408752441
+Can lack of sleep cause weight gain?,yes,"Yes.
+For a more in-depth look at sleep problems, I've compiled a list of the most common sleep problems in the world, including:
+1. Sleep problems
+2. Sleep problems
+3. Sleep problems
+4. Sleep",1.633913516998291,distilgpt2,qlora,11.006867408752441
+Does drinking water help with kidney stones?,yes,"Well, it does.",1.6182422637939453,distilgpt2,qlora,11.006867408752441
+Is yoga good for flexibility?,yes,"Yes, it's a good idea to try yoga. Yoga is a very important part of the body. There are many different types of yoga, and yoga is a very important part of the body. So if you're going to do a lot of",1.619668960571289,distilgpt2,qlora,11.006867408752441
